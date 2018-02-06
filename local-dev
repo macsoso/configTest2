@@ -1,0 +1,5 @@
+type=dev
+port=7019
+app=config-client2
+poi=master_git
+version=55
